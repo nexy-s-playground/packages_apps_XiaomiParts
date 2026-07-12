@@ -17,6 +17,7 @@ allow devicesettings_app {
   media_session_service
   netstats_service
   permission_checker_service
+  role_service
   sensorservice_service
   statusbar_service
   surfaceflinger_service
